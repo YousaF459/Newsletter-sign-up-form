@@ -161,7 +161,7 @@ order:2;
 margin-top:0;
 }
 
-#innerimage{src*="D:\Frontend Mentor Challenges\4\Solution\illustration-sign-up-mobile.svg"}{
+#innerimage{src*="./illustration-sign-up-mobile.svg"}{
 order:1;
 }
 
